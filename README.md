@@ -40,7 +40,7 @@ Este EJERCICIO realiza una prueba de carga en la página de Petstore utilizando 
 
 2. **Desarrollo del Script de K6**:
 
-     ```El contenido se puede apreciar en los archivos adjuntos
+ADJUNTO EN LOS ARCHIVOS
 
 3. **Crear el Archivo `docker-compose.yml`**:
    - Crear `docker-compose.yml` con el siguiente contenido:
